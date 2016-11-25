@@ -1,0 +1,12 @@
+{
+    "name": "Small",
+    "authors": [
+        {
+            "name": "MarkoC",
+            "email": "marko.curkovic@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "Small\\": "src/" }
+    }
+}
